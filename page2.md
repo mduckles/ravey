@@ -6,6 +6,6 @@ title:  The Optimis
 
 ![](./img)
 
-<a href="./index.html"><button>back</button> 
+<a href="./index.html"><button>back to home</button> 
 
 
