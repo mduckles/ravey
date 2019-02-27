@@ -1,8 +1,8 @@
 ---
-tittle: the open bic
+title: the open bic
 ---
 
-<a href="./index.html"><button>back</button> 
+<a href="./index.html"><button>back to home</button> 
 
 
 
