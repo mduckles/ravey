@@ -8,4 +8,4 @@ _is a great sialing club for kid you lern to sail at first with a optimis they o
 
 
 
-<a href="./page2.html"><button>Optimis</button></a> <a href="./page3.html"><button>open bic</button></a>
+<a href="./page2.html"><button>Optimis</button>   </a> <a href="./page3.html"><button>open bic</button></a>
