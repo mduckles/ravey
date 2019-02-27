@@ -1,8 +1,9 @@
 ---
-title: The O'Pen Bic
+title:  The Optimis 
 ---
-Hi Micah
+### the Optimis is the boat you normaly start with it is fun be 
+### easier to satrt with than the other boats because it is more stable
 
-hi
-----
-hi
+
+
+
